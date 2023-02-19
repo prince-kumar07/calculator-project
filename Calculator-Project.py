@@ -1,7 +1,7 @@
 # Take input for operand
-Num1 = input('Enter Tne First Number: ')
-Operator = input('Enter Tne  Operator: ')
-Num2 = input('Enter Tne Second Number: ')
+Num1 = input('Enter The First Number: ')
+Operator = input('Enter The  Operator: ')
+Num2 = input('Enter The Second Number: ')
 
 
 # lets print the type of the variables
